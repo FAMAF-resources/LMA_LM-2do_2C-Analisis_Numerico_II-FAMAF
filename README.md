@@ -1,42 +1,57 @@
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/FAMAF-resources/Template-repository)
 
-# Materia - FAMAF - Computacion
+# Análisis Numérico II - FAMAF - Licencuatura en Matemática Aplicada
 
-> Cuatrimestre
+>  2º año — 2º cuatrimestre
+Estudio de métodos numéricos para resolver problemas de álgebra lineal, optimización y ecuaciones no lineales.
 
 ## Correlativas para **cursar**
 
 | Materia               | Condición    |
 | --------------------- | ------------ |
-| -   | Aprobada     |
+| Análisis Numérico I   | Regularizada     |
+| Cálculo Vectorial | Regularizada     |
+| Álgebra Lineal        | Aprobada     |
+| Cálculo II           | Aprobada     |
+
+
 
 ## Correlativas para **aprobar**
 
 | Materia               | Condición    |
 | --------------------- | ------------ |
-| -   | Aprobada     |
+| Análisis Numérico I   | Aprobada     |
+| Cálculo Vectorial | Aprobada     |
 
 ## Es correlativa de:
 
-- Ninguna.
+ Materia               | Para | Condición Análisis Numérico II |
+| --------------------- | ------------ |------------ |
+| Análisis Numérico III  | Cursar | Regularizada     |
+| Análisis Numérico III  | Rendir | Aprobada     |
+| Investigación de Operaciones  | Cursar | Aprobada     |
+| Optimización  | Rendir | Aprobada     |
+
 
 ## Clonar el repositorio`
 
 > http
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/FAMAF-resources/LMA_LM-2do_2C-Analisis_Numerico_II-FAMAF.git
 ```
 
 > ssh
 
 ```bash
-git clone <repo-url>
+git clone git@github.com:FAMAF-resources/LMA_LM-2do_2C-Analisis_Numerico_II-FAMAF.git
 ```
 
 ## Aula virtual
 
-![example](url)
+[Ingresar al aula virtual en Google Classroom](https://classroom.google.com/u/1/c/NTI2MzMwOTM2Mjc5)
+
+
 
 # Contribuciones
 
